@@ -91,17 +91,4 @@ Contributions are welcome! If you have ideas for new features or improvements, p
 
 ---
 
-## Authors
-- **Pui Hei Wong** - User & Room Management
-- **Mohammed Sadiq** - Designer/Tester
-- **Mohammed Abbas** - Event Handling
 
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Acknowledgments
-Special thanks to the COMP 3140 course team for their guidance and support.
